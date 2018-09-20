@@ -1,4 +1,4 @@
-# turnout
+# Event App
 
 > A Vue.js and Firebase project
 
