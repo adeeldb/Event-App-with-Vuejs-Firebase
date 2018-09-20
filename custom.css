@@ -1,0 +1,28 @@
+/* custom css */
+
+#app {
+	font-family: 'Roboto', sans-serif;
+	-webkit-font-smoothing: antiliased;
+	-moz-osx-font-smoothing: grayscale;
+	padding-top: 40px;
+	text-align: center;
+}
+
+.sign-in-btn { 
+	padding-top: 20px;
+}
+
+.signout_btn {
+    position: absolute;
+    right: 10px;
+    top: 40px;
+}
+
+.card.event-box {
+    margin: 20px 0;
+}
+
+.error-message {
+	color: red;
+	padding: 20px;
+}
